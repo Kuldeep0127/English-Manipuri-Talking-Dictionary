@@ -1,12 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
 # Virtual Environment
 .venv/
-
-# Python cache
-__pycache__/
-*.pyc
+venv/
 
 # PyCharm
 .idea/
+
+# PyInstaller
+build/
+*.spec
 
 # OS files
 .DS_Store
