@@ -41,6 +41,23 @@ English-Manipuri-Talking-Dictionary/
 ├── requirements.txt
 └── .gitignore
 ```
+## Screenshots
+
+### Main Application
+
+![Main Window](screenshots/main.png)
+
+### Add Word
+
+![Add Word](screenshots/add.png)
+
+### Edit Word
+
+![Edit Word](screenshots/edit.png)
+
+### Delete Word
+
+![Delete Word](screenshots/delete.png)
 
 ## 🚀 How to Run
 
