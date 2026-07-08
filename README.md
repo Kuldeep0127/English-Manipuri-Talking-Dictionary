@@ -45,19 +45,18 @@ English-Manipuri-Talking-Dictionary/
 
 ### Main Application
 
-![Main Window](screenshots/Main Window.png)
-
+![Main Window](screenshots/main.png)
 ### Add Word
 
-![Add Word](screenshots/Add word Window.png)
+![Add Word](screenshots/add.png)
 
 ### Edit Word
 
-![Edit Word](screenshots/Edit Word Window.png)
+![Edit Word](screenshots/edit.png)
 
 ### Delete Word
 
-![Delete Word](screenshots/Delete Word Window.png)
+![Delete Word](screenshots/delete.png)
 
 ## 🚀 How to Run
 
